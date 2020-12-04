@@ -1,1 +1,2 @@
-- Q1 - Find maximum subarray in a subarray in O(nlogn) time.
+- Q1 - Find maximum subarray in an array in O(nlogn) time.
+- Q2 - Find maximum subarray in an array in O(n^2) time.
