@@ -7,3 +7,5 @@
 - Q4 - Sentinel Linear search. Instead of checking for i < n on every loop of linear search and then checking if it is the wanted key, place a sentinel value at A[ n-1] and loop till you hit it or the key. The amount of condition checks is nearly halved.
 
 - Q5 - Iterative Linear Search.
+
+- Q6 - Good old selection sort.
