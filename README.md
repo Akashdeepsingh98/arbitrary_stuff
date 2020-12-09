@@ -10,3 +10,5 @@
 
 - Q6 - Good old selection sort.
 - Q7 - Good old quicksort. Last element is the pivot.
+
+- Q8 - Counting sort.
