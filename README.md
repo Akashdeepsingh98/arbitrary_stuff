@@ -12,3 +12,5 @@
 - Q7 - Good old quicksort. Last element is the pivot.
 
 - Q8 - Counting sort.
+
+- Q9 - Radix sort.
