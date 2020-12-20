@@ -16,3 +16,4 @@
 - Q9 - Radix sort.
 
 - Q10 - Topological Sort
+- Q11 - Diameter of binary tree
