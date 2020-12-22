@@ -17,3 +17,4 @@
 
 - Q10 - Topological Sort
 - Q11 - Diameter of binary tree
+- Q12 - Max heap
