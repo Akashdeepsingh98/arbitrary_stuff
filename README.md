@@ -21,3 +21,4 @@
 - Q13 - Heapsort
 - Q14 - Priority queue using heap.
 - Q15 - bucket sort
+- Q16 - Quickselect
