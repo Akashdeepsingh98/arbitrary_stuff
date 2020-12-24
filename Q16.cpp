@@ -40,7 +40,7 @@ int select(vector<int> &v, int low, int high, int pos)
 
 int main()
 {
-    vector<int> v = {9, 18, 7, 6, 5, 4, 3, 22, 1};
-    int index = select(v, 0, v.size() - 1, 3);
+    vector<int> v = {1,2,3,4,5,6,7,8,9,10};
+    int index = select(v, 0, v.size() - 1, 10);
     cout << index << endl;
 }
