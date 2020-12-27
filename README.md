@@ -26,3 +26,4 @@
 - Q18 - Maximum subarray in O(n).
 - Q19 - Binary search using jumps.
 - Q20 - N-queens backtracking.
+- Q21 - Backtracking, on an n*n grid move from upper left to lower right corner while visiting every block on the grid exactly once. Some optimization: start by going down and when done multiply count by 2, if no way forward but can go both left and right then backtrack, if already reached lower right block and not all blocks met then backtrack.
