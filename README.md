@@ -24,3 +24,4 @@
 - Q16 - Quickselect
 - Q17 - Median of medians select.
 - Q18 - Maximum subarray in O(n).
+- Q19 - Binary search using jumps.
