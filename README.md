@@ -25,3 +25,4 @@
 - Q17 - Median of medians select.
 - Q18 - Maximum subarray in O(n).
 - Q19 - Binary search using jumps.
+- Q20 - N-queens backtracking.
